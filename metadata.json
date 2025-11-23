@@ -1,0 +1,7 @@
+{
+  "name": "AutoDamage Analyst AI",
+  "description": "Professional-grade automotive damage analysis and repair estimation tool powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
